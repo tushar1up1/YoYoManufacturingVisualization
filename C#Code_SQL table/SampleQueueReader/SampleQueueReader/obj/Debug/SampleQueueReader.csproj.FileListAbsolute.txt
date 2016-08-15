@@ -1,0 +1,9 @@
+C:\Users\Tushar\Documents\Visual Studio 2012\Projects\AdvanceSQL\SampleQueueReader\SampleQueueReader\bin\Debug\SampleQueueReader.exe.config
+C:\Users\Tushar\Documents\Visual Studio 2012\Projects\AdvanceSQL\SampleQueueReader\SampleQueueReader\bin\Debug\SampleQueueReader.exe
+C:\Users\Tushar\Documents\Visual Studio 2012\Projects\AdvanceSQL\SampleQueueReader\SampleQueueReader\bin\Debug\SampleQueueReader.pdb
+C:\Users\Tushar\Documents\Visual Studio 2012\Projects\AdvanceSQL\SampleQueueReader\SampleQueueReader\obj\Debug\SampleQueueReader.csprojResolveAssemblyReference.cache
+C:\Users\Tushar\Documents\Visual Studio 2012\Projects\AdvanceSQL\SampleQueueReader\SampleQueueReader\obj\Debug\SampleQueueReader.Properties.Resources.resources
+C:\Users\Tushar\Documents\Visual Studio 2012\Projects\AdvanceSQL\SampleQueueReader\SampleQueueReader\obj\Debug\SampleQueueReader.csproj.GenerateResource.Cache
+C:\Users\Tushar\Documents\Visual Studio 2012\Projects\AdvanceSQL\SampleQueueReader\SampleQueueReader\obj\Debug\SampleQueueReader.exe
+C:\Users\Tushar\Documents\Visual Studio 2012\Projects\AdvanceSQL\SampleQueueReader\SampleQueueReader\obj\Debug\SampleQueueReader.pdb
+C:\Users\Tushar\Documents\Visual Studio 2012\Projects\AdvanceSQL\SampleQueueReader\SampleQueueReader\obj\Debug\SampleQueueReader.frmMain.resources

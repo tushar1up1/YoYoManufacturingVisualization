@@ -1,0 +1,10 @@
+C:\Users\Tushar\Documents\Visual Studio 2012\Projects\AdvanceSQL\YoYoDataVisualPresentation\YoYoDataVisualPresentation\bin\Debug\YoYoDataVisualPresentation.exe.config
+C:\Users\Tushar\Documents\Visual Studio 2012\Projects\AdvanceSQL\YoYoDataVisualPresentation\YoYoDataVisualPresentation\bin\Debug\YoYoDataVisualPresentation.exe
+C:\Users\Tushar\Documents\Visual Studio 2012\Projects\AdvanceSQL\YoYoDataVisualPresentation\YoYoDataVisualPresentation\bin\Debug\YoYoDataVisualPresentation.pdb
+C:\Users\Tushar\Documents\Visual Studio 2012\Projects\AdvanceSQL\YoYoDataVisualPresentation\YoYoDataVisualPresentation\obj\Debug\YoYoDataVisualPresentation.Form1.resources
+C:\Users\Tushar\Documents\Visual Studio 2012\Projects\AdvanceSQL\YoYoDataVisualPresentation\YoYoDataVisualPresentation\obj\Debug\YoYoDataVisualPresentation.Properties.Resources.resources
+C:\Users\Tushar\Documents\Visual Studio 2012\Projects\AdvanceSQL\YoYoDataVisualPresentation\YoYoDataVisualPresentation\obj\Debug\YoYoDataVisualPresentation.csproj.GenerateResource.Cache
+C:\Users\Tushar\Documents\Visual Studio 2012\Projects\AdvanceSQL\YoYoDataVisualPresentation\YoYoDataVisualPresentation\obj\Debug\YoYoDataVisualPresentation.exe
+C:\Users\Tushar\Documents\Visual Studio 2012\Projects\AdvanceSQL\YoYoDataVisualPresentation\YoYoDataVisualPresentation\obj\Debug\YoYoDataVisualPresentation.pdb
+C:\Users\Tushar\Documents\Visual Studio 2012\Projects\AdvanceSQL\YoYoDataVisualPresentation\YoYoDataVisualPresentation\obj\Debug\YoYoDataVisualPresentation.csprojResolveAssemblyReference.cache
+C:\Users\Tushar\Documents\Visual Studio 2012\Projects\AdvanceSQL\YoYoDataVisualPresentation\YoYoDataVisualPresentation\obj\Debug\YoYoDataVisualPresentation.loginPage.resources
