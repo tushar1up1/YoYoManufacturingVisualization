@@ -1,0 +1,9 @@
+C:\Users\Norbert\Desktop\SampleQueueReader\SampleQueueReader\bin\Debug\SampleQueueReader.exe.config
+C:\Users\Norbert\Desktop\SampleQueueReader\SampleQueueReader\obj\Debug\SampleQueueReader.csprojResolveAssemblyReference.cache
+C:\Users\Norbert\Desktop\SampleQueueReader\SampleQueueReader\obj\Debug\SampleQueueReader.frmMain.resources
+C:\Users\Norbert\Desktop\SampleQueueReader\SampleQueueReader\obj\Debug\SampleQueueReader.Properties.Resources.resources
+C:\Users\Norbert\Desktop\SampleQueueReader\SampleQueueReader\obj\Debug\SampleQueueReader.csproj.GenerateResource.Cache
+C:\Users\Norbert\Desktop\SampleQueueReader\SampleQueueReader\bin\Debug\SampleQueueReader.exe
+C:\Users\Norbert\Desktop\SampleQueueReader\SampleQueueReader\bin\Debug\SampleQueueReader.pdb
+C:\Users\Norbert\Desktop\SampleQueueReader\SampleQueueReader\obj\Debug\SampleQueueReader.exe
+C:\Users\Norbert\Desktop\SampleQueueReader\SampleQueueReader\obj\Debug\SampleQueueReader.pdb
